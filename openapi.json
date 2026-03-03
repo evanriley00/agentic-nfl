@@ -1,0 +1,6 @@
+﻿
+openapi info                                               paths                      components 
+------- ----                                               -----                      ---------- 
+3.1.0   @{title=NFL Receiver Yards Predictor; version=1.0} @{/=; /health=; /predict=} @{schemas=}
+
+
